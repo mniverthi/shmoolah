@@ -1,2 +1,2 @@
 # shmoolah
-a poor man's coin
+One man's trash is another man's comeup
